@@ -1,6 +1,6 @@
-# diptimayabehera.github.io
 <!DOCTYPE html>
 <html>
+<head>
 <style>
 .myDiv {
   border: 5px outset red;
