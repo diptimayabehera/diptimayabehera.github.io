@@ -32,7 +32,7 @@
 <h2>M.Tech</h2> : in Computer Science, University of Hyderabad, Completed  2017.
 <h2>B.Tech</h2> : in Information Technology, VSSUT Burla, Odisha, Completed July 2014. 
 
-<a href="Home.html">  
+<a href="http://diptimayabehera.github.io/Pages/Home.html">  
     <button>Home</button>  
   </a>
 </body>
